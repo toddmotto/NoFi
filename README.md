@@ -18,14 +18,17 @@ NoFi.init({
 
 #### eventName
 Type: `String` Default: `offline`
+
 The custom event name when listening. This even is fired when the internet connection is lost.
 
 #### interval
 Type: `Integer` Default: `10000`
+
 The interval in which the script should check to see if the connection has been lost.
 
 #### exit
 Type: `Boolean` Default: `false`
+
 If the script should `return` from the function upon emitting the offline custom event.
 
 ## Installing with Bower
