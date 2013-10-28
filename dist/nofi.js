@@ -3,7 +3,6 @@
  *  No WiFi, detecting offline states with HTML5
  *  Project: https://github.com/toddmotto/nofi
  *  by Todd Motto: http://toddmotto.com
- *
  *  Copyright 2013. MIT licensed.
  */
 window.NoFi = (function (window, document, undefined) {

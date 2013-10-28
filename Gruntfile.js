@@ -34,7 +34,6 @@ module.exports = function ( grunt ) {
 					" *  <%= pkg.description %>\n" +
 					" *  Project: <%= pkg.homepage %>\n" +
 					" *  by <%= pkg.author.name %>: <%= pkg.author.url %>\n" +
-					" *\n" +
 					" *  Copyright <%= pkg.year %>." +
 					" <%= pkg.licenses[0].type %> licensed.\n" +
 					" */\n"
