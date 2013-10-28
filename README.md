@@ -1,4 +1,4 @@
-# NoFi [![Build Status](https://travis-ci.org/toddmotto/nofi.png)](https://travis-ci.org/toddmotto/nofi)
+# NoFi [![Build Status](https://travis-ci.org/toddmotto/NoFi.png)](https://travis-ci.org/toddmotto/NoFi)
 
 NoFi, for when there's no WiFi. Uses the native HTML5 API to detect if a user's internet goes offline and emits a custom `offline` event for your callbacks.
 
