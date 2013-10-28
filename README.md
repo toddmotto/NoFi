@@ -31,6 +31,15 @@ Type: `Boolean` Default: `false`
 
 If the script should `return` from the function upon emitting the offline custom event.
 
+## Event listening
+Just listen to your custom event using `addEventListener`:
+
+```javascript
+window.addEventListener('offline', function () {
+  console.log('You are offline, oops.');
+});
+```
+
 ## Installing with Bower
 To install nofi into your project using Bower, use the GitHub repository hook:
 
