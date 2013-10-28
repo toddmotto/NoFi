@@ -3,7 +3,7 @@
 NoFi, for when there's no WiFi. Uses the native HTML5 API to detect if a user's internet goes offline and emits a custom `offline` event for your callbacks.
 
 ## Demo
-Check out a [demo of nofi](http://toddmotto.com/labs/nofi).
+Check out a [demo of NoFi](http://toddmotto.com/labs/nofi).
 
 ## Options
 Add the NoFi script just before the closing `</body>` tag, and initialise the module:
